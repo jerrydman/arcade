@@ -1,0 +1,18 @@
+/home/pi/RetroPie/roms/segacd/Mortal Kombat (USA).cue
+
+/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so
+PicoDrive
+
+
+/home/pi/RetroPie/roms/segacd/Sonic CD (USA).cue
+
+/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so
+PicoDrive
+
+
+/home/pi/RetroPie/roms/segacd/Terminator (USA).cue
+
+/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so
+PicoDrive
+
+

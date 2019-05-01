@@ -1,0 +1,291 @@
+﻿02:37:51.427 T:1945645056  NOTICE: special://profile/ is mapped to: special://masterprofile/
+02:37:51.427 T:1945645056  NOTICE: -----------------------------------------------------------------------
+02:37:51.427 T:1945645056  NOTICE: Starting Kodi (17.1-RC2 Git:20170312-b2013fd-dirty). Platform: Linux ARM 32-bit
+02:37:51.427 T:1945645056  NOTICE: Using Release Kodi x32 build (version for Raspberry Pi)
+02:37:51.427 T:1945645056  NOTICE: Kodi compiled Mar 12 2017 by GCC 4.9.2 for Linux ARM 32-bit version 3.16.7 (200711)
+02:37:51.427 T:1945645056  NOTICE: Running on Raspbian GNU/Linux 8 (jessie), kernel: Linux ARM 32-bit version 4.4.50-v7+
+02:37:51.434 T:1945645056  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+02:37:51.434 T:1945645056  NOTICE: Host CPU: ARMv7 Processor rev 4 (v7l), 4 cores available
+02:37:51.434 T:1945645056  NOTICE: ARM Features: Neon enabled
+02:37:51.434 T:1945645056  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi
+02:37:51.434 T:1945645056  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/arm-linux-gnueabihf/kodi
+02:37:51.434 T:1945645056  NOTICE: special://xbmcbinaddons/ is mapped to: /usr/lib/arm-linux-gnueabihf/kodi/addons
+02:37:51.434 T:1945645056  NOTICE: special://masterprofile/ is mapped to: /home/pi/.kodi/userdata
+02:37:51.434 T:1945645056  NOTICE: special://envhome/ is mapped to: /home/pi
+02:37:51.434 T:1945645056  NOTICE: special://home/ is mapped to: /home/pi/.kodi
+02:37:51.434 T:1945645056  NOTICE: special://temp/ is mapped to: /home/pi/.kodi/temp
+02:37:51.434 T:1945645056  NOTICE: special://logpath/ is mapped to: /home/pi/.kodi/temp
+02:37:51.434 T:1945645056  NOTICE: The executable running is: /usr/lib/arm-linux-gnueabihf/kodi/kodi.bin
+02:37:51.434 T:1945645056  NOTICE: Local hostname: retropie
+02:37:51.434 T:1945645056  NOTICE: Log File is located: /home/pi/.kodi/temp//kodi.log
+02:37:51.434 T:1945645056  NOTICE: -----------------------------------------------------------------------
+02:37:51.929 T:1945645056   ERROR: DBus: Error org.freedesktop.DBus.Error.InvalidArgs - No such property CanSuspend
+02:37:51.930 T:1945645056   ERROR: DBus: Error org.freedesktop.DBus.Error.InvalidArgs - No such property CanHibernate
+02:37:51.942 T:1945645056  NOTICE: load settings...
+02:37:52.112 T:1945645056  NOTICE: Found 2 Lists of Devices
+02:37:52.113 T:1945645056  NOTICE: Enumerated PI devices:
+02:37:52.113 T:1945645056  NOTICE:     Device 1
+02:37:52.113 T:1945645056  NOTICE:         m_deviceName      : HDMI
+02:37:52.113 T:1945645056  NOTICE:         m_displayName     : HDMI
+02:37:52.113 T:1945645056  NOTICE:         m_displayNameExtra:
+02:37:52.113 T:1945645056  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+02:37:52.113 T:1945645056  NOTICE:         m_channels        : FL,FR
+02:37:52.113 T:1945645056  NOTICE:         m_sampleRates     : 8000,11025,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000
+02:37:52.113 T:1945645056  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32NE,AE_FMT_S16NE,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP,AE_FMT_RAW
+02:37:52.113 T:1945645056  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512
+02:37:52.113 T:1945645056  NOTICE:     Device 2
+02:37:52.113 T:1945645056  NOTICE:         m_deviceName      : Analogue
+02:37:52.113 T:1945645056  NOTICE:         m_displayName     : Analogue
+02:37:52.113 T:1945645056  NOTICE:         m_displayNameExtra:
+02:37:52.114 T:1945645056  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+02:37:52.114 T:1945645056  NOTICE:         m_channels        : FL,FR
+02:37:52.114 T:1945645056  NOTICE:         m_sampleRates     : 48000
+02:37:52.114 T:1945645056  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP
+02:37:52.114 T:1945645056  NOTICE:         m_streamTypes     : No passthrough capabilities
+02:37:52.114 T:1945645056  NOTICE:     Device 3
+02:37:52.114 T:1945645056  NOTICE:         m_deviceName      : Both
+02:37:52.114 T:1945645056  NOTICE:         m_displayName     : HDMI and Analogue
+02:37:52.114 T:1945645056  NOTICE:         m_displayNameExtra:
+02:37:52.114 T:1945645056  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+02:37:52.114 T:1945645056  NOTICE:         m_channels        : FL,FR
+02:37:52.114 T:1945645056  NOTICE:         m_sampleRates     : 48000
+02:37:52.114 T:1945645056  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP
+02:37:52.114 T:1945645056  NOTICE:         m_streamTypes     : No passthrough capabilities
+02:37:52.114 T:1945645056  NOTICE: Enumerated ALSA devices:
+02:37:52.114 T:1945645056  NOTICE:     Device 1
+02:37:52.114 T:1945645056  NOTICE:         m_deviceName      : @
+02:37:52.114 T:1945645056  NOTICE:         m_displayName     : Default (bcm2835 ALSA bcm2835 ALSA)
+02:37:52.114 T:1945645056  NOTICE:         m_displayNameExtra:
+02:37:52.114 T:1945645056  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+02:37:52.114 T:1945645056  NOTICE:         m_channels        : FL,FR
+02:37:52.114 T:1945645056  NOTICE:         m_sampleRates     : 8000,11025,16000,22050,32000,44100,48000
+02:37:52.114 T:1945645056  NOTICE:         m_dataFormats     : AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_U8
+02:37:52.114 T:1945645056  NOTICE:         m_streamTypes     : No passthrough capabilities
+02:37:52.180 T:1945645056  NOTICE: Loaded settings file from special://xbmc/system/advancedsettings.xml
+02:37:52.180 T:1945645056  NOTICE: Contents of special://xbmc/system/advancedsettings.xml are...
+                                            <?xml version="1.0" encoding="UTF-8" ?>
+                                            <advancedsettings>
+                                              <fanartres>720</fanartres>
+                                              <imageres>540</imageres>
+                                              <video>
+                                                <busydialogdelayms>750</busydialogdelayms>
+                                              </video>
+                                              <samba>
+                                                <clienttimeout>30</clienttimeout>
+                                              </samba>
+                                              <cache>
+                                                <memorysize>31457280</memorysize>
+                                              </cache>
+                                            </advancedsettings>
+02:37:52.182 T:1945645056  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+02:37:52.182 T:1945645056  NOTICE: Default Video Player: VideoPlayer
+02:37:52.182 T:1945645056  NOTICE: Default Audio Player: paplayer
+02:37:52.182 T:1945645056  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+02:37:52.182 T:1945645056  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+02:37:52.182 T:1945645056  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+02:37:52.184 T:1945645056  NOTICE: Loaded playercorefactory configuration
+02:37:52.184 T:1945645056  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+02:37:52.184 T:1945645056  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+02:37:52.271 T:1945645056  NOTICE: Old database found - updating from version 20 to 27
+02:37:52.403 T:1945645056  NOTICE: Attempting to update the database Addons27 from version 20 to 27
+02:37:53.493 T:1945645056  NOTICE: ADDONS: Using repository repository.xbmc.org
+02:37:53.623 T:1945645056  NOTICE: Raspberry PI firmware version: Mar  3 2017 13:42:34 
+                                            Copyright (c) 2012 Broadcom
+                                            version 9ae30f71c7ef4239e9d5b56346c0842f3ef56736 (clean) (release)
+02:37:53.623 T:1945645056  NOTICE: ARM mem: 752MB GPU mem: 256MB MPG2:0 WVC1:0
+02:37:53.623 T:1945645056  NOTICE: cache.memorysize: 30MB libass.cache: 0MB
+02:37:53.624 T:1945645056  NOTICE: Config:
+                                            arm_freq=1200
+                                            audio_pwm_mode=1
+                                            config_hdmi_boost=5
+                                            core_freq=400
+                                            desired_osc_freq=0x36ee80
+                                            disable_commandline_tags=2
+                                            disable_l2cache=1
+                                            disable_splash=1
+                                            force_eeprom_read=1
+                                            force_pwm_open=1
+                                            framebuffer_ignore_alpha=1
+                                            framebuffer_swap=1
+                                            gpu_freq=300
+                                            hdmi_channel_map=8
+                                            hdmi_force_cec_address=65535
+                                            init_uart_clock=0x2dc6c00
+                                            lcd_framerate=60
+                                            over_voltage_avs=62500
+                                            over_voltage_avs_boost=62500
+                                            overscan_scale=1
+                                            pause_burst_frames=1
+                                            program_serial_random=1
+                                            sdram_freq=450
+                                            temp_limit=85
+02:37:53.624 T:1945645056  NOTICE: Config:
+                                            device_tree=-
+02:37:53.624 T:1945645056  NOTICE: InitWindowSystem: Using EGL Implementation: raspberrypi
+02:37:53.626 T:1945645056  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 60.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 59.940063 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 75.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 800 x 600 for display 0 with 800 x 600 @ 60.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 800 x 600 for display 0 with 800 x 600 @ 59.940063 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 800 x 600 for display 0 with 800 x 600 @ 75.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 60.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 59.940063 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1024 x 768 for display 0 with 1024 x 768 @ 75.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1152 x 864 for display 0 with 1152 x 864 @ 75.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1280 x 1024 for display 0 with 1280 x 1024 @ 60.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1280 x 1024 for display 0 with 1280 x 1024 @ 59.940063 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1280 x 1024 for display 0 with 1280 x 1024 @ 75.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 60.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 59.940063 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1600 x 900 for display 0 with 1600 x 900 @ 60.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1600 x 900 for display 0 with 1600 x 900 @ 59.940063 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 720 x 480 for display 0 with 720 x 480 @ 60.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 720 x 480 for display 0 with 720 x 480 @ 59.940063 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 60.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 59.940063 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 720 x 576 for display 0 with 720 x 576 @ 50.000000 Hz
+02:37:53.626 T:1945645056  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 50.000000 Hz
+02:37:53.627 T:1945645056  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 50.000000 Hz
+02:37:53.627 T:1945645056  NOTICE: Found (1920x1080@60.000000) at 29, setting to RES_DESKTOP at 16
+02:37:53.627 T:1945645056  NOTICE: Checking resolution 16
+02:37:53.931 T:1945645056  NOTICE: GL_VENDOR = Broadcom
+02:37:53.931 T:1945645056  NOTICE: GL_RENDERER = VideoCore IV HW
+02:37:53.931 T:1945645056  NOTICE: GL_VERSION = OpenGL ES 2.0
+02:37:53.931 T:1945645056  NOTICE: GL_SHADING_LANGUAGE_VERSION = OpenGL ES GLSL ES 1.00
+02:37:53.931 T:1945645056  NOTICE: GL_EXTENSIONS = GL_OES_compressed_ETC1_RGB8_texture GL_OES_compressed_paletted_texture GL_OES_texture_npot GL_OES_depth24 GL_OES_vertex_half_float GL_OES_EGL_image GL_OES_EGL_image_external GL_EXT_discard_framebuffer GL_OES_rgb8_rgba8 GL_OES_depth32 GL_OES_mapbuffer GL_EXT_texture_format_BGRA8888 GL_APPLE_rgb_422 GL_EXT_debug_marker
+02:37:54.943 T:1807737776  NOTICE: Register - new cec device registered on cec->RPI: CEC Adapter (2708:1001)
+02:37:54.962 T:1858069424  NOTICE: Running database version Addons27
+02:37:54.965 T:1858069424  NOTICE: Running database version ViewModes6
+02:37:54.968 T:1858069424  NOTICE: Running database version Textures13
+02:37:54.984 T:1858069424  NOTICE: Old database found - updating from version 56 to 60
+02:37:55.030 T:1858069424  NOTICE: Attempting to update the database MyMusic60 from version 56 to 60
+02:37:55.196 T:1858069424  NOTICE: Old database found - updating from version 99 to 107
+02:37:55.261 T:1858069424  NOTICE: Attempting to update the database MyVideos107 from version 99 to 107
+02:37:55.389 T:1858069424  NOTICE: Running database version TV29
+02:37:55.392 T:1858069424  NOTICE: Running database version Epg11
+02:37:55.396 T:1945645056  NOTICE: start dvd mediatype detection
+02:37:55.499 T:1945645056 WARNING: CSkinInfo: failed to load skin settings
+02:37:55.948 T:1945645056  NOTICE: Unknown sounds addon 'resource.uisounds.confluence'. Setting default sounds.
+02:37:56.121 T:1945645056 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+02:37:56.437 T:1945645056  NOTICE: initialize done
+02:37:56.437 T:1945645056  NOTICE: Running the application...
+02:37:56.450 T:1945645056  NOTICE: starting zeroconf publishing
+02:37:56.450 T:1945645056  NOTICE: starting upnp client
+02:37:56.484 T:1647657904  NOTICE: ES: Starting UDP Event server on port 9777
+02:37:56.488 T:1647657904  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+02:38:12.437 T:1723356080   ERROR: GetDirectory - Error getting
+02:39:02.352 T:1731744688   ERROR: Previous line repeats 6 times.
+02:39:02.352 T:1731744688  NOTICE: VideoInfoScanner: Starting scan ..
+02:39:03.428 T:1723356080 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:03.647 T:1723356080 WARNING: Previous line repeats 1 times.
+02:39:03.647 T:1723356080  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/xYfss5mQnOFeE9h1AWCihWyoZYj.jpg
+02:39:04.895 T:1723356080 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:05.697 T:1723356080 WARNING: Previous line repeats 1 times.
+02:39:05.697 T:1723356080  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/f4IItQZZ09n7s8cYX87FgaG1mr2.jpg
+02:39:06.606 T:1731744688   ERROR: Run: Unable to parse web site
+02:39:07.807 T:1740919728 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:07.886 T:1740919728 WARNING: Previous line repeats 1 times.
+02:39:07.886 T:1740919728  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/vxgPkbdPMYNjvcw18JDHD37I8VJ.jpg
+02:39:08.233 T:1740919728 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:08.333 T:1740919728 WARNING: Previous line repeats 1 times.
+02:39:08.333 T:1740919728  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/nXUdTFpDILzndhSSqi1f8uYPg3l.jpg
+02:39:08.368 T:1731744688 WARNING: No information found for item 'smb://TRIKHA-NAS/Movies/Smash Hits 5.mkv', it won't be added to the library.
+02:39:08.752 T:1731744688   ERROR: GetVideoDetails: Invalid XML file (want <details>)
+02:39:08.894 T:1731744688  NOTICE: VideoInfoScanner: Finished scan. Scanning for video info took 00:06
+02:39:09.041 T:1740919728 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:09.103 T:1740919728 WARNING: Previous line repeats 1 times.
+02:39:09.103 T:1740919728  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/7zuPzFxfkEOqHDwYYVk817Vr2Su.jpg
+02:39:09.359 T:1723356080 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:09.598 T:1723356080 WARNING: Previous line repeats 1 times.
+02:39:09.598 T:1723356080  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/mkoBtgOKfoMHyZ3IW8opGRZim6S.jpg
+02:39:09.654 T:1731744688 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:09.910 T:1731744688 WARNING: Previous line repeats 1 times.
+02:39:09.910 T:1731744688  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/5uurRfH9KdMiecCNTzO1MSi9Tqw.jpg
+02:39:10.782 T:1723356080 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:10.838 T:1723356080 WARNING: Previous line repeats 1 times.
+02:39:10.838 T:1723356080  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/dbhLj7bXeZHvd5mbNOIeAHp0JRy.jpg
+02:39:11.169 T:1740919728 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:11.224 T:1740919728 WARNING: Previous line repeats 1 times.
+02:39:11.225 T:1740919728  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/bHom94uxOmjyHJEwvqJ1hp6ZdVp.jpg
+02:39:11.528 T:1740919728 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:11.584 T:1740919728 WARNING: Previous line repeats 1 times.
+02:39:11.584 T:1740919728  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/3hwcGUAuxax9wPpL6iCBBqKTqI5.jpg
+02:39:11.750 T:1740919728 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:11.833 T:1740919728 WARNING: Previous line repeats 1 times.
+02:39:11.833 T:1740919728  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/qCRNnWZLkrWxB2sAq7ARXeVbSwx.jpg
+02:39:12.194 T:1740919728 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:39:12.260 T:1740919728 WARNING: Previous line repeats 1 times.
+02:39:12.260 T:1740919728  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/hUeC5CY9242W4Nmi3Q8msLh7Zjo.jpg
+02:39:12.354 T:1945645056  NOTICE: VideoPlayer: Opening: smb://TRIKHA-NAS/Movies/Bahubali.mkv
+02:39:12.355 T:1945645056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:39:12.356 T:1570165680  NOTICE: Creating InputStream
+02:39:12.381 T:1570165680  NOTICE: Creating Demuxer
+02:39:13.836 T:1570165680  NOTICE: Opening stream: 0 source: 256
+02:39:13.839 T:1570165680  NOTICE: Creating video codec with codec id: 28
+02:39:13.849 T:1570165680  NOTICE: Creating video thread
+02:39:13.849 T:1621967792  NOTICE: running thread: video_thread
+02:39:13.849 T:1570165680  NOTICE: Opening stream: 1 source: 256
+02:39:13.849 T:1570165680  NOTICE: Finding audio codec for: 86061
+02:39:13.850 T:1570165680  NOTICE: Creating audio thread
+02:39:13.850 T:1605190576  NOTICE: running thread: CVideoPlayerAudio::Process()
+02:39:13.850 T:1570165680  NOTICE: Opening stream: 3 source: 256
+02:39:13.872 T:1605190576  NOTICE: Creating audio stream (codec id: 86061, channels: 8, sample rate: 48000, no pass-through)
+02:39:17.135 T:1621967792 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+02:39:22.779 T:1605190576 WARNING: Previous line repeats 2 times.
+02:39:22.779 T:1605190576  NOTICE: CVideoPlayerAudio::Process - stream stalled
+02:40:05.301 T:1621967792 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+02:40:14.145 T:1605190576  NOTICE: CVideoPlayerAudio::Process - stream stalled
+02:40:34.579 T:1723356080 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:40:34.579 T:1723356080  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/plmsWjJSVo0tEHLqjR6M8pu2vEI.jpg
+02:40:35.039 T:1518203824 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:40:35.039 T:1518203824  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/v6mzy5mDBZxCzeFTjjZ7oluPdkX.jpg
+02:40:35.174 T:1858069424 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:40:35.846 T:1858069424 WARNING: Previous line repeats 3 times.
+02:40:35.847 T:1858069424  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/eKFZFwKtJJXczpguU5zgUhgleox.jpg
+02:40:35.972 T:1723356080 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:40:35.972 T:1723356080  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/zBgKzrhLrquNY4ClS2Spte9AW1c.jpg
+02:40:35.985 T:1740919728 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:40:35.985 T:1740919728  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/4zrXMtDVNy8pvqxWvdUfG0uQRHJ.jpg
+02:40:36.202 T:1518203824 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:40:36.381 T:1518203824 WARNING: Previous line repeats 1 times.
+02:40:36.381 T:1518203824  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/ePHlptlWL3n47sTazsUk1YC94B0.jpg
+02:40:37.620 T:1723356080 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:40:38.137 T:1518203824 WARNING: Previous line repeats 2 times.
+02:40:38.138 T:1518203824  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/6K7SfLJPZM1dwxItDCqGEMxyyDK.jpg
+02:40:38.251 T:1723356080 WARNING: COMXImageFile::GetCodingType progressive images not supported by decoder
+02:40:38.252 T:1723356080  NOTICE: LoadJpeg: unable to load http://image.tmdb.org/t/p/original/ezFeykClknyrWl3UPZwG2sB6KLm.jpg
+02:40:43.015 T:1945645056  NOTICE: Storing total System Uptime
+02:40:43.015 T:1945645056  NOTICE: Saving settings
+02:40:43.026 T:1945645056  NOTICE: Saving skin settings
+02:40:43.029 T:1945645056  NOTICE: stop all
+02:40:43.030 T:1945645056  NOTICE: stop player
+02:40:43.030 T:1945645056  NOTICE: CVideoPlayer::CloseFile()
+02:40:43.030 T:1945645056  NOTICE: VideoPlayer: waiting for threads to exit
+02:40:43.038 T:1570165680  NOTICE: CVideoPlayer::OnExit()
+02:40:43.038 T:1570165680  NOTICE: Closing stream player 1
+02:40:43.038 T:1570165680  NOTICE: Waiting for audio thread to exit
+02:40:43.038 T:1605190576  NOTICE: thread end: CVideoPlayerAudio::OnExit()
+02:40:43.038 T:1570165680  NOTICE: Closing audio device
+02:40:43.100 T:1570165680  NOTICE: Deleting audio codec
+02:40:43.100 T:1570165680  NOTICE: Closing stream player 2
+02:40:43.101 T:1570165680  NOTICE: waiting for video thread to exit
+02:40:43.118 T:1621967792  NOTICE: thread end: video_thread
+02:40:43.118 T:1570165680  NOTICE: deleting video codec
+02:40:43.121 T:1570165680  NOTICE: Closing stream player 3
+02:40:43.133 T:1945645056  NOTICE: VideoPlayer: finished waiting
+02:40:43.155 T:1945645056  NOTICE: CVideoPlayer::CloseFile()
+02:40:43.155 T:1945645056  NOTICE: VideoPlayer: waiting for threads to exit
+02:40:43.155 T:1945645056  NOTICE: VideoPlayer: finished waiting
+02:40:43.158 T:1945645056  NOTICE: ES: Stopping event server
+02:40:43.158 T:1945645056  NOTICE: stopping upnp
+02:40:43.310 T:1945645056  NOTICE: stopping zeroconf publishing
+02:40:43.654 T:1647657904  NOTICE: ES: UDP Event server stopped
+02:40:43.654 T:1945645056  NOTICE: stop dvd detect media
+02:40:45.470 T:1945645056  NOTICE: clean cached files!
+02:40:45.613 T:1945645056  NOTICE: closing down remote control service
+02:40:45.613 T:1945645056  NOTICE: stopped
+02:40:45.814 T:1945645056  NOTICE: destroy
+02:40:45.814 T:1945645056  NOTICE: unload skin
+02:40:45.938 T:1945645056  NOTICE: unload sections
+02:40:45.951 T:1945645056  NOTICE: special://profile/ is mapped to: special://masterprofile/
+02:40:45.954 T:1945645056  NOTICE: application stopped...

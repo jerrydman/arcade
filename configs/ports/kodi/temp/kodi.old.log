@@ -1,0 +1,211 @@
+﻿04:29:59 661.507812 T:1944597056  NOTICE: special://profile/ is mapped to: special://masterprofile/
+04:29:59 661.507935 T:1944597056  NOTICE: -----------------------------------------------------------------------
+04:29:59 661.507996 T:1944597056  NOTICE: Starting Kodi (16.1 Git:2016-04-24-b08ce71-dirty). Platform: Linux ARM 32-bit
+04:29:59 661.508057 T:1944597056  NOTICE: Using Release Kodi x32 build (version for Raspberry Pi)
+04:29:59 661.508057 T:1944597056  NOTICE: Kodi compiled Apr 24 2016 by GCC 4.9.2 for Linux ARM 32-bit version 3.16.7 (200711)
+04:29:59 661.508240 T:1944597056  NOTICE: Running on Raspbian GNU/Linux 8 (jessie), kernel: Linux ARM 32-bit version 4.4.13-v7+
+04:29:59 661.508301 T:1944597056  NOTICE: FFmpeg statically linked, version: 2.8.6-kodi-release/2.8-xbmc
+04:29:59 661.508301 T:1944597056  NOTICE: Host CPU: ARMv7 Processor rev 4 (v7l), 4 cores available
+04:29:59 661.508362 T:1944597056  NOTICE: ARM Features: Neon enabled
+04:29:59 661.508362 T:1944597056  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi
+04:29:59 661.508423 T:1944597056  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/kodi
+04:29:59 661.508484 T:1944597056  NOTICE: special://masterprofile/ is mapped to: /home/pi/.kodi/userdata
+04:29:59 661.508484 T:1944597056  NOTICE: special://home/ is mapped to: /home/pi/.kodi
+04:29:59 661.508545 T:1944597056  NOTICE: special://temp/ is mapped to: /home/pi/.kodi/temp
+04:29:59 661.508606 T:1944597056  NOTICE: The executable running is: /usr/lib/kodi/kodi.bin
+04:29:59 661.508667 T:1944597056  NOTICE: Local hostname: retropie
+04:29:59 661.508667 T:1944597056  NOTICE: Log File is located: /home/pi/.kodi/temp/kodi.log
+04:29:59 661.508789 T:1944597056  NOTICE: -----------------------------------------------------------------------
+04:29:59 661.959473 T:1944597056   ERROR: DBus: Error org.freedesktop.DBus.Error.InvalidArgs - No such property CanSuspend
+04:29:59 661.960205 T:1944597056   ERROR: DBus: Error org.freedesktop.DBus.Error.InvalidArgs - No such property CanHibernate
+04:29:59 661.968689 T:1944597056  NOTICE: load settings...
+04:30:00 662.109314 T:1944597056  NOTICE: Found 2 Lists of Devices
+04:30:00 662.109436 T:1944597056  NOTICE: Enumerated PI devices:
+04:30:00 662.109436 T:1944597056  NOTICE:     Device 1
+04:30:00 662.109680 T:1944597056  NOTICE:         m_deviceName      : HDMI
+04:30:00 662.109741 T:1944597056  NOTICE:         m_displayName     : HDMI
+04:30:00 662.109741 T:1944597056  NOTICE:         m_displayNameExtra:
+04:30:00 662.109802 T:1944597056  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+04:30:00 662.109802 T:1944597056  NOTICE:         m_channels        : FL,FR
+04:30:00 662.109863 T:1944597056  NOTICE:         m_sampleRates     : 8000,11025,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000
+04:30:00 662.109863 T:1944597056  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32NE,AE_FMT_S16NE,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP,AE_FMT_AC3,AE_FMT_DTS,AE_FMT_EAC3
+04:30:00 662.109924 T:1944597056  NOTICE:     Device 2
+04:30:00 662.109985 T:1944597056  NOTICE:         m_deviceName      : Analogue
+04:30:00 662.110229 T:1944597056  NOTICE:         m_displayName     : Analogue
+04:30:00 662.110229 T:1944597056  NOTICE:         m_displayNameExtra:
+04:30:00 662.110291 T:1944597056  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+04:30:00 662.110352 T:1944597056  NOTICE:         m_channels        : FL,FR
+04:30:00 662.110352 T:1944597056  NOTICE:         m_sampleRates     : 48000
+04:30:00 662.110413 T:1944597056  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP
+04:30:00 662.110413 T:1944597056  NOTICE:     Device 3
+04:30:00 662.110474 T:1944597056  NOTICE:         m_deviceName      : Both
+04:30:00 662.110535 T:1944597056  NOTICE:         m_displayName     : HDMI and Analogue
+04:30:00 662.110535 T:1944597056  NOTICE:         m_displayNameExtra:
+04:30:00 662.110596 T:1944597056  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+04:30:00 662.110596 T:1944597056  NOTICE:         m_channels        : FL,FR
+04:30:00 662.110657 T:1944597056  NOTICE:         m_sampleRates     : 48000
+04:30:00 662.110718 T:1944597056  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32LE,AE_FMT_S16LE,AE_FMT_FLOATP,AE_FMT_S32NEP,AE_FMT_S16NEP
+04:30:00 662.110718 T:1944597056  NOTICE: Enumerated ALSA devices:
+04:30:00 662.110779 T:1944597056  NOTICE:     Device 1
+04:30:00 662.110840 T:1944597056  NOTICE:         m_deviceName      : @
+04:30:00 662.110840 T:1944597056  NOTICE:         m_displayName     : Default (bcm2835 ALSA bcm2835 ALSA)
+04:30:00 662.110901 T:1944597056  NOTICE:         m_displayNameExtra:
+04:30:00 662.110962 T:1944597056  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+04:30:00 662.110962 T:1944597056  NOTICE:         m_channels        : FL,FR
+04:30:00 662.111023 T:1944597056  NOTICE:         m_sampleRates     : 8000,11025,16000,22050,32000,44100,48000
+04:30:00 662.111023 T:1944597056  NOTICE:         m_dataFormats     : AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_U8
+04:30:00 662.156738 T:1944597056  NOTICE: Loaded settings file from special://xbmc/system/advancedsettings.xml
+04:30:00 662.157104 T:1944597056  NOTICE: Contents of special://xbmc/system/advancedsettings.xml are...
+                                            <?xml version="1.0" encoding="UTF-8" ?>
+                                            <advancedsettings>
+                                              <video>
+                                                <defaultplayer>dvdplayer</defaultplayer>
+                                                <defaultdvdplayer>dvdplayer</defaultdvdplayer>
+                                                <subsdelayrange>120</subsdelayrange>
+                                                <busydialogdelayms>750</busydialogdelayms>
+                                              </video>
+                                              <fanartres>720</fanartres>
+                                              <imageres>540</imageres>
+                                              <samba>
+                                                <clienttimeout>30</clienttimeout>
+                                              </samba>
+                                              <network>
+                                                <readbufferfactor>4.0</readbufferfactor>
+                                                <cachemembuffersize>31457280</cachemembuffersize>
+                                              </network>
+                                              <gui>
+                                                <algorithmdirtyregions>3</algorithmdirtyregions>
+                                                <nofliptimeout>0</nofliptimeout>
+                                              </gui>
+                                              <splash>false</splash>
+                                            </advancedsettings>
+04:30:00 662.158569 T:1944597056  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+04:30:00 662.158569 T:1944597056  NOTICE: Default DVD Player: dvdplayer
+04:30:00 662.158630 T:1944597056  NOTICE: Default Video Player: dvdplayer
+04:30:00 662.158630 T:1944597056  NOTICE: Default Audio Player: paplayer
+04:30:00 662.158691 T:1944597056  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+04:30:00 662.158752 T:1944597056  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+04:30:00 662.158936 T:1944597056  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+04:30:00 662.160583 T:1944597056  NOTICE: Loaded playercorefactory configuration
+04:30:00 662.160828 T:1944597056  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+04:30:00 662.161011 T:1944597056  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+04:30:00 662.264099 T:1944597056  NOTICE: Running database version Addons20
+04:30:00 662.389282 T:1944597056  NOTICE: ADDONS: Using repository repository.xbmc.org
+04:30:00 662.389404 T:1944597056  NOTICE: ADDONS: Using repository repository.popcornmix
+04:30:00 662.457031 T:1944597056  NOTICE: Raspberry PI firmware version: Jun 20 2016 18:13:27 
+                                            Copyright (c) 2012 Broadcom
+                                            version 460b39c674ef2ac89360e15331f97a2cb1388a44 (clean) (release)
+04:30:00 662.457153 T:1944597056  NOTICE: ARM mem: 752MB GPU mem: 256MB MPG2:0 WVC1:0
+04:30:00 662.457153 T:1944597056  NOTICE: cacheMemBufferSize: 30MB
+04:30:00 662.457458 T:1944597056  NOTICE: Config:
+                                            arm_freq=1200
+                                            audio_pwm_mode=1
+                                            config_hdmi_boost=5
+                                            core_freq=400
+                                            desired_osc_freq=0x36ee80
+                                            disable_commandline_tags=2
+                                            disable_l2cache=1
+                                            disable_splash=1
+                                            force_eeprom_read=1
+                                            force_pwm_open=1
+                                            framebuffer_ignore_alpha=1
+                                            framebuffer_swap=1
+                                            gpu_freq=300
+                                            hdmi_channel_map=8
+                                            hdmi_force_cec_address=65535
+                                            init_uart_clock=0x2dc6c00
+                                            lcd_framerate=60
+                                            over_voltage_avs=0x249f0
+                                            overscan_bottom=48
+                                            overscan_left=48
+                                            overscan_right=48
+                                            overscan_scale=1
+                                            overscan_top=48
+                                            pause_burst_frames=1
+                                            program_serial_random=1
+                                            sdram_freq=450
+                                            temp_limit=85
+04:30:00 662.457581 T:1944597056  NOTICE: Config:
+                                            device_tree=-
+04:30:00 662.457642 T:1944597056  NOTICE: InitWindowSystem: Using EGL Implementation: raspberrypi
+04:30:00 662.458984 T:1944597056  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 60.000000 Hz
+04:30:00 662.459045 T:1944597056  NOTICE: Found resolution 640 x 480 for display 0 with 640 x 480 @ 59.940063 Hz
+04:30:00 662.459106 T:1944597056  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 60.000000 Hz
+04:30:00 662.459167 T:1944597056  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 59.940063 Hz
+04:30:00 662.459167 T:1944597056  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 60.000000 Hz
+04:30:00 662.459229 T:1944597056  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 59.940063 Hz
+04:30:00 662.459290 T:1944597056  NOTICE: Found resolution 720 x 480 for display 0 with 720 x 480 @ 60.000000 Hz
+04:30:00 662.459290 T:1944597056  NOTICE: Found resolution 720 x 480 for display 0 with 720 x 480 @ 59.940063 Hz
+04:30:00 662.459351 T:1944597056  NOTICE: Found resolution 720 x 576 for display 0 with 720 x 576 @ 50.000000 Hz
+04:30:00 662.459351 T:1944597056  NOTICE: Found resolution 1280 x 720 for display 0 with 1280 x 720 @ 50.000000 Hz
+04:30:00 662.459412 T:1944597056  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 50.000000 Hz
+04:30:00 662.459473 T:1944597056  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 25.000000 Hz
+04:30:00 662.459473 T:1944597056  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 30.000000 Hz
+04:30:00 662.459534 T:1944597056  NOTICE: Found resolution 1920 x 1080 for display 0 with 1920 x 1080 @ 29.970032 Hz
+04:30:00 662.459595 T:1944597056  NOTICE: Found (1920x1080@60.000000) at 18, setting to RES_DESKTOP at 16
+04:30:00 662.459656 T:1944597056  NOTICE: Checking resolution 16
+04:30:00 662.568787 T:1944597056  NOTICE: GL_VENDOR = Broadcom
+04:30:00 662.568909 T:1944597056  NOTICE: GL_RENDERER = VideoCore IV HW
+04:30:00 662.568970 T:1944597056  NOTICE: GL_VERSION = OpenGL ES 2.0
+04:30:00 662.568970 T:1944597056  NOTICE: GL_SHADING_LANGUAGE_VERSION = OpenGL ES GLSL ES 1.00
+04:30:00 662.569031 T:1944597056  NOTICE: GL_EXTENSIONS = GL_OES_compressed_ETC1_RGB8_texture GL_OES_compressed_paletted_texture GL_OES_texture_npot GL_OES_depth24 GL_OES_vertex_half_float GL_OES_EGL_image GL_OES_EGL_image_external GL_EXT_discard_framebuffer GL_OES_rgb8_rgba8 GL_OES_depth32 GL_OES_mapbuffer GL_EXT_texture_format_BGRA8888 GL_APPLE_rgb_422 GL_EXT_debug_marker
+04:30:01 663.065369 T:1944597056  NOTICE: Register - new cec device registered on cec->RPI: CEC Adapter (2708:1001)
+04:30:01 663.130859 T:1944597056  NOTICE: Running database version Addons20
+04:30:01 663.132996 T:1944597056  NOTICE: Running database version ViewModes6
+04:30:01 663.135193 T:1944597056  NOTICE: Running database version Textures13
+04:30:01 663.149841 T:1944597056  NOTICE: Running database version MyMusic56
+04:30:01 663.163086 T:1944597056  NOTICE: Running database version MyVideos99
+04:30:01 663.166504 T:1944597056  NOTICE: Running database version TV29
+04:30:01 663.174011 T:1944597056  NOTICE: Running database version Epg11
+04:30:01 663.176392 T:1944597056  NOTICE: start dvd mediatype detection
+04:30:01 663.926453 T:1944597056 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+04:30:01 664.003296 T:1944597056  NOTICE: ActiveAE DSP - starting
+04:30:01 664.009888 T:1944597056  NOTICE: initialize done
+04:30:02 664.121765 T:1944597056  NOTICE: Running the application...
+04:30:02 664.482483 T:1944597056  NOTICE: starting zeroconf publishing
+04:30:02 664.482788 T:1944597056  NOTICE: starting upnp client
+04:30:02 664.514282 T:1709478832  NOTICE: ES: Starting UDP Event server on 127.0.0.1:9777
+04:30:02 664.514465 T:1709478832  NOTICE: UDP: Listening on port 9777
+04:30:02 664.517639 T:1944597056  NOTICE: Found a joystick : use it as a joystick input device - /dev/input/event0
+04:30:02 664.553040 T:1944597056  NOTICE: Found a non joystick : use it as standard kodi input device - /dev/input/event1
+04:30:02 664.673218 T:1944597056  NOTICE: Found a non joystick : use it as standard kodi input device - /dev/input/event2
+04:30:02 664.793579 T:1649406896  NOTICE: Found a joystick : use it as a joystick input device - /dev/input/event0
+04:30:02 664.796082 T:1944597056  NOTICE: Enabled Joystick: USB,2-axis 8-button gamepad
+04:30:02 664.796204 T:1944597056  NOTICE: Details: Total Axis: 2 Total Hats: 0 Total Buttons: 8
+04:30:12 674.594421 T:1944597056  NOTICE: Storing total System Uptime
+04:30:12 674.594727 T:1944597056  NOTICE: Saving settings
+04:30:12 674.606079 T:1944597056  NOTICE: stop all
+04:30:12 674.606628 T:1944597056  NOTICE: stop player
+04:30:12 674.606750 T:1944597056  NOTICE: ES: Stopping event server
+04:30:12 674.606873 T:1944597056  NOTICE: stopping upnp
+04:30:12 674.758423 T:1944597056  NOTICE: stopping zeroconf publishing
+04:30:12 674.843079 T:1649406896  NOTICE: Found a joystick : use it as a joystick input device - /dev/input/event0
+04:30:13 675.527222 T:1709478832  NOTICE: ES: UDP Event server stopped
+04:30:13 675.527466 T:1944597056  NOTICE: stop dvd detect media
+04:30:14 676.073059 T:1944597056  NOTICE: stop sap announcement listener
+04:30:14 676.073181 T:1944597056  NOTICE: clean cached files!
+04:30:14 676.073242 T:1944597056  NOTICE: unload skin
+04:30:14 676.103882 T:1944597056 WARNING: Cleanup: Having to cleanup texture pointer-nofocus.png
+04:30:14 676.104248 T:1944597056 WARNING: Cleanup: Having to cleanup texture pointer-focus.png
+04:30:14 676.104431 T:1944597056 WARNING: Cleanup: Having to cleanup texture pointer-focus-drag.png
+04:30:14 676.104553 T:1944597056 WARNING: Cleanup: Having to cleanup texture pointer-focus-click.png
+04:30:14 676.288818 T:1944597056  NOTICE: stopped
+04:30:14 676.289062 T:1944597056  NOTICE: destroy
+04:30:14 676.293945 T:1944597056  NOTICE: closing down remote control service
+04:30:14 676.294312 T:1944597056  NOTICE: unload sections
+04:30:14 676.310730 T:1944597056  NOTICE: special://profile/ is mapped to: special://masterprofile/
+04:30:14 676.546997 T:1944597056  NOTICE: destroy
+04:30:14 676.547302 T:1944597056 WARNING: Attempted to remove window 10013 from the window manager when it didn't exist
+04:30:14 676.547363 T:1944597056 WARNING: Attempted to remove window 10014 from the window manager when it didn't exist
+04:30:14 676.547424 T:1944597056 WARNING: Attempted to remove window 10015 from the window manager when it didn't exist
+04:30:14 676.547485 T:1944597056 WARNING: Attempted to remove window 10016 from the window manager when it didn't exist
+04:30:14 676.547546 T:1944597056 WARNING: Attempted to remove window 10017 from the window manager when it didn't exist
+04:30:14 676.547668 T:1944597056 WARNING: Attempted to remove window 10018 from the window manager when it didn't exist
+04:30:14 676.547729 T:1944597056 WARNING: Attempted to remove window 10019 from the window manager when it didn't exist
+04:30:14 676.547791 T:1944597056 WARNING: Attempted to remove window 10021 from the window manager when it didn't exist
+04:30:14 676.547852 T:1944597056 WARNING: Attempted to remove window 10107 from the window manager when it didn't exist
+04:30:14 676.547913 T:1944597056 WARNING: Attempted to remove window 10115 from the window manager when it didn't exist
+04:30:14 676.547974 T:1944597056 WARNING: Attempted to remove window 10104 from the window manager when it didn't exist
+04:30:14 676.548035 T:1944597056  NOTICE: closing down remote control service
+04:30:14 676.548157 T:1944597056  NOTICE: unload sections
+04:30:14 676.548218 T:1944597056  NOTICE: application stopped...

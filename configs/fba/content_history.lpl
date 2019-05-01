@@ -1,0 +1,189 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/fba/robocop.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fba/tmnt.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fba/punisher.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fba/xmen.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fba/sidepckt.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cps1/sf2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cps3/sfiii.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cps1/sf2ce.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fba/galaga.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fba/kof96.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cps1/unsquad.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fba/sfiii.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cps1/cawing.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cps3/sfiii2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cave/pwrinst2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cave/espgal.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cps1/punisher.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fba/doubledr.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cps3/sfiii3.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cps1/slammast.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/cave/agallet.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fba/agalletu.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fbalpha/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fba/shadoww.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fba-next/fbalpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

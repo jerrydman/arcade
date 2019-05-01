@@ -1,0 +1,222 @@
+lvl2: 	EmulationStation - v2.7.6rp, built Apr 30 2019 - 04:14:46
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Checking available OpenGL extensions...
+lvl2: 	 ARB_texture_non_power_of_two: MISSING
+lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/amstradcpc/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/amstradcpc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/amstradcpc/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "amstradcpc" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/arcade/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/arcade/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/arcade/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "arcade" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/atari2600/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari2600/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari2600/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/atari7800/gamelist.xml"...
+lvl1: 	File ""/home/pi/RetroPie/roms/atari7800/3D Asteroids (1987) (Atari).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/atari7800/Gato (198x) (Atari).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/atari7800/Pit Fighter (1992) (Atari).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/atari7800/Rescue on Fractalus (1984) (Atari).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/atari7800/Tubes (2004) (Bruce Tomlin).zip"" does not exist! Ignoring.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari7800/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari7800/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/atarilynx/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atarilynx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atarilynx/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/c64/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/c64/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/c64/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "c64" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/colecovision/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/colecovision/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "coleco" has no games! Ignoring it.
+lvl1: 	  Unknown platform for system "daphne" (platform "daphne" from list "daphne")
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/daphne/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/daphne/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/daphne/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "daphne" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/dreamcast/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/dreamcast/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/dreamcast/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/fba/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/fba/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/fba/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/fds/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/fds/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/fds/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/gamegear/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gamegear/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gamegear/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gb/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gb/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gb/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/gba/gamelist.xml"...
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Disney Games - Disney Sports - Football + Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Disney Games - Lilo && Stitch 2 + Peter Pan - Return to Neverland (Europe) (En,Fr,De,Es En,Fr,De,Es,It,Nl).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Game Pack! - Matchbox Missions - Emergency Response + Air, Land and Sea Rescue (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Game Pack! - Uno + Skip-Bo (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Bionicle + Knights' Kingdom (Europe) (En,Fr,De,Da+En,De).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Brother Bear + The Lion King (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Columns Crown + ChuChu Rocket! (Europe) (En+En,Ja,Fr,De,Es).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Disney Princess + Brother Bear (Europe) (En+En,Fr,De,Es,It,Nl,Sv,Da).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Disney Princess + Lizzie McGuire (Europe).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (En+En,Es,It,Sv,Da).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Finding Nemo + The Incredibles (Europe).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Golden Nugget Casino + Texas Hold 'em Poker (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Monsters, Inc. + Finding Nemo (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - Rugrats - Go Wild + SpongeBob SquarePants - SuperSponge (Europe).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in 1 - The Lion King + Disney Princess (Europe) (En,Fr,De,Es,It,Nl,Sv,Da+En).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in One! - Marble Madness + Klax (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 Games in One! - Spy Hunter + Super Sprint (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 in 1 Game Pack - Shrek 2 + Shark Tale (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2 in 1 Game Pack - Tony Hawk's Underground + Kelly Slater's Pro Surfer (USA, Europe).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2-in-1 Fun Pack - Shrek 2 + Madagascar (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2-in-1 Fun Pack - Shrek 2 + Madagascar - Operation Penguin (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/2K Sports - Major League Baseball 2K7 (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/3 Game Pack! - Candy Land + Chutes and Ladders + Original Memory Game (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/3 Game Pack! - Ker Plunk! + Toss Across + Tip It (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/3 Game Pack! - Mouse Trap + Simon + Operation (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/3 Game Pack! - The Game of Life + Payday + Yahtzee (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/3 Games in 1 - Rugrats - I Gotta Go Party + SpongeBob SquarePants - SuperSponge + Tak and the Power of Juju (Europe) (En+En+En,Fr,De).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/3 Games in One! - Breakout + Centipede + Warlords (USA).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/gba/3 Games in One! - Super Breakout + Millipede + Lunar Lander (USA).zip"" does not exist! Ignoring.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gba/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gba/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/gbc/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gbc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gbc/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mame-advmame/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mame/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mame-libretro/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mame/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "mame-libretro" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mame-mame4all/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mame/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "mame-mame4all" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/mastersystem/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mastersystem/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mastersystem/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/megadrive/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/megadrive/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/megadrive/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/msx/gamelist.xml"...
+lvl1: 	File ""/home/pi/RetroPie/roms/msx/3-D Golf Simulation (Japan).zip"" does not exist! Ignoring.
+lvl1: 	File ""/home/pi/RetroPie/roms/msx/3D Tennis (Japan).zip"" does not exist! Ignoring.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/msx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/msx/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/n64/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/n64/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/n64/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/neogeo/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/neogeo/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/neogeo/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/nes/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/nes/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/nes/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/ngp/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/ngp/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/ngp/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/ngpc/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/ngpc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/ngpc/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/pc/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/pc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/pc/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/pcengine/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/pcengine/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/pcengine/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/ports/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/ports/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/ports/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/psp/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/psp/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/psp/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "psp" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/psx/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/psx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/psx/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/retropie/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/retropie/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/retropie/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/sega32x/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/sega32x/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/sega32x/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/segacd/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/segacd/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/segacd/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/sg-1000/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/sg-1000/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/sg-1000/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/RetroPie/roms/snes/gamelist.xml"...
+lvl1: 	File ""/home/pi/RetroPie/roms/snes/Donkey Kong Country (USA) (Competition Edition) (1).zip"" does not exist! Ignoring.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/snes/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/snes/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/vectrex/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/vectrex/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/vectrex/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "vectrex" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/virtualboy/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/virtualboy/../carbon.xml")
+    could not find file "" 
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/zxspectrum/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/zxspectrum/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/zxspectrum/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/auto-allgames/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/auto-allgames/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/auto-favorites/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/auto-favorites/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/auto-lastplayed/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/auto-lastplayed/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/custom-collections/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/custom-collections/../carbon.xml")
+    could not find file "" 
+lvl2: 	 req sound [basic.launch]
+lvl2: 	   (missing)
